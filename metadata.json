@@ -1,0 +1,6 @@
+{
+  "name": "강대연 포트폴리오",
+  "description": "임베디드 하드웨어 및 블록코딩 교육자 강대연의 프리미엄 포트폴리오 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
